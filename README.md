@@ -1,3 +1,5 @@
+# Android ViewModel Architecture Practice Project
+
 ## Overview
 
 This repository contains the source code for the Android ViewModel Practice Project, which is part of the Android Basics with Compose course offered by Google's Android development experts. Specifically, it corresponds to [Unit 4: Navigation and app architecture](https://developer.android.com/codelabs/basic-android-kotlin-compose-practice-navigation).
