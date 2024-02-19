@@ -16,4 +16,4 @@ The goal of this project was to enhance the architecture of the existing Dessert
 
 ## App Screenshot
 
-<img src="https://developer.android.com/static/codelabs/basic-android-kotlin-compose-activity-lifecycle/img/b494a56f9ba0f83d_1440.png" width="200" height="300" alt="Screenshot">
+[dessert_clicker_app_video.webm](https://github.com/estefany-aa/android-viewmodel-architecture-practice-project-launch-dessert-clicker-app/assets/82005714/bef318dd-15fc-4c4e-9629-8ab117be6420)
